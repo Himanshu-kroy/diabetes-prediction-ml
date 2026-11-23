@@ -1,2 +1,8 @@
-# diabetes-prediction-ml
-Diabetes prediction using Logistic Regression and machine learning evaluation metrics.
+# Diabetes Prediction Using Machine Learning
+
+This project predicts diabetes using Logistic Regression.
+
+Dataset: Pima Indians Diabetes Dataset
+Platform: Google Colab
+Language: Python
+Algorithm: Logistic Regression
