@@ -1,0 +1,9 @@
+Evaluation Metric,Result
+True Positive (TP),37.0
+True Negative (TN),111.0
+False Positive (FP),19.0
+False Negative (FN),33.0
+Accuracy,74.0
+Precision,66.07
+Recall,52.86
+F1-Score,58.73
